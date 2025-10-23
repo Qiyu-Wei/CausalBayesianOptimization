@@ -6,3 +6,5 @@ The code to run the CBO algorthm is in `runCBO.py`. The file `runBO.py` can be u
 
 # Contacts
 Feel free to contact the first author of the paper ([Virginia Aglietti](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/aglietti/)) for questions 
+
+
